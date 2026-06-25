@@ -1,0 +1,4 @@
+lang=en letters=ABCDEFGHIJKLMNOPQRSTUVWXYZ:!; title=CUSTOM_Technical
+http:
+https:
+!important;
