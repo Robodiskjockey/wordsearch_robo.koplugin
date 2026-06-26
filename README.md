@@ -4,7 +4,7 @@ This KOReader plugin generates classic word search puzzles directly on your devi
 
 I added some new word lists and stuff to it. Have fun -Robo
 
-Originally came from wordsearch.koplugin by Omer-faruq, so all the stuff below is his info:
+Originally came from wordsearch.koplugin by Omer-faruq.
 
 ## How to download
 [wordsearch_robo.koplugin.zip](https://github.com/user-attachments/files/29361494/wordsearch_robo.koplugin.zip)
