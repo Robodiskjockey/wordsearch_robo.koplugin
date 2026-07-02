@@ -10,8 +10,13 @@ Originally came from wordsearch.koplugin by Omer-faruq.
 [wordsearch_robo.koplugin.zip](https://github.com/user-attachments/files/29361494/wordsearch_robo.koplugin.zip)
 1. Download the .zip
 2. Extract the .zip, it should come out as a folder
-3. Move the entire newly-extracted folder into '.adds/plugins'.
-4. Restart the koreader, and if everything goes right you should be able to play the game.
+3. Move the entire newly-extracted folder into '.adds/plugins'. The exact folder can vary from some instances:
+ - **Kobo: .adds/koreader/plugins/
+ - **Kindle: koreader/plugins/
+ - **PocketBook: applications/koreader/plugins/
+ - **Android: koreader/plugins/
+ - **macOS: ~/Library/Application Support/koreader/plugins/
+5. Restart the koreader, and if everything goes right you should be able to play the game.
 
 ## Gameplay overview
 1. Launch **Tools → Word Search**.
@@ -42,5 +47,5 @@ That's all I did to make word lists.
 The plugin saves the active board, chosen list, grid size, max word count, and zoom level to KOReader's settings directory. Closing and reopening KOReader resumes exactly where you left off unless you generate a new puzzle.
 
 ## Credits
-Created with the help of Windsurf (AI).
-Again, this was made using Wordsearch.koplugin by Omer-faruq, so go check his out after mine.
+This was made using Wordsearch.koplugin by Omer-faruq, so go check his out after mine.
+The original was Created by Windsurf (AI). Mine was made all myself in a text editor.
