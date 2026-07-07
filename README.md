@@ -1,5 +1,9 @@
 # Word Search Puzzle Plugin 2 for KOReader!!!
 
+## New Update: 2.0
+Update date: 2026/7/6
+2.0 is the newest update for Word Lists 2. It adds new lists and fixes some bugs.
+
 This KOReader plugin generates classic word search puzzles directly on your device. Each puzzle mixes horizontal, vertical, and diagonal words while heuristics spread words across directions and starting points to avoid clustering.
 
 I added some new word lists and stuff to it. Have fun -Robo
