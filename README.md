@@ -1,4 +1,4 @@
-# Word Search Puzzle Plugin 2 for KOReader!!!
+# Word Search Puzzle Plugin for KOReader (better!)
 
 ## New Update: 2.0
 Update date: 2026/7/6
